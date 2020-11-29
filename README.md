@@ -2,14 +2,14 @@
 
 Breadth first search algorithm
 
-\# # # # # O # #
-\#   + + + +   #
-\#   +         #
-\#   + #       #
-\# # + #       #
-\# + + #       #
-\# +   #       #
-\# + # # # # # #
+ +++++++++ O +++ 
++     o o o o + 
++     o       +
++     o+      +
++++ o +++     +
++  o  +       +
++ o   +       +
++ o +++++++++++
 
 Found exit using: 34 attempts
-'''
+
