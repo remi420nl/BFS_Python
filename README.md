@@ -1,2 +1,18 @@
 # BFS_Python
-Breadth First Search Algorithm
+
+Breadth first search algorithm
+
+# # # # # O # #
+#   + + + +   #
+#   +         #
+#   + #       #
+# # + #       #
+# + + #       #
+# +   #       #
+# + # # # # # #
+
+Found exit using: 34 attempts
+Press any key to continue . . .
+
+
+
