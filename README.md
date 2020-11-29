@@ -1,4 +1,4 @@
-# BFS_Python
+##### BFS_Python
 
 Breadth first search algorithm
 "
